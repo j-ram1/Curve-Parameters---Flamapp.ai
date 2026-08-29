@@ -77,4 +77,4 @@ Takes a couple seconds to run since it tries ~1750 different starting points bef
 - `solve.py` — the script that does the fitting, run with `python3 solve.py` (needs numpy + scipy)
 - `xy_data.csv` — the data we were given
 - `desmos_graph.png` — the curve rendered in Desmos using the values above
-- `README.md` — this
+
